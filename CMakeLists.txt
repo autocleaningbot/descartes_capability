@@ -25,6 +25,8 @@ find_package(catkin REQUIRED COMPONENTS
   rospy
   tf
   tf2_eigen
+  tf_conversions
+  eigen_conversions
 )
 
 # System dependencies are found with CMake's conventions
