@@ -23,6 +23,8 @@ find_package(catkin REQUIRED COMPONENTS
   roscpp
   roslint
   rospy
+  tf
+  tf2_eigen
 )
 
 # System dependencies are found with CMake's conventions
